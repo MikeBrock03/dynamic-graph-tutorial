@@ -1,0 +1,13 @@
+.biorhythm-card p{
+    line-height: normal;
+}
+
+.biorhythm-card .physical {
+    color: var(--app-physical-color);
+}
+.biorhythm-card .intellectual {
+    color: var(--app-intelligence-color);
+}
+.biorhythm-card .emotional {
+    color: vaR(--app-emotion-color);
+}
